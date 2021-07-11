@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>202f8892-74e5-4ca8-8aba-c03b6b336322</groupId>
-	<artifactId>cicd-salesforce-query</artifactId>
+	<artifactId>salesforce-query-cicd2</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>mule-application</packaging>
 
-	<name>cicd-salesforce-query</name>
+	<name>salesforce-query-cicd2</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -98,7 +98,7 @@
 			<layout>default</layout>
 			<url>https://repository.mulesoft.org/releases/</url>
 			<snapshots>
-				<enabled>false</enabled>
+				<enabled>true</enabled>
 			</snapshots>
 		</pluginRepository>
 	</pluginRepositories>
